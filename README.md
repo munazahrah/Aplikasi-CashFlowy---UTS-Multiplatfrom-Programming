@@ -53,7 +53,11 @@ flutter run
 
 👨‍💻 Pengembang
 Dikembangkan oleh:
+
 Nama: Siti Munawaroh Yusminnu Zahrah
+
 NIM: 230605110198
+
 Mata Kuliah: MULTIPLATFROM PROGRAMMING
+
 Dibuat dengan menggunakan Flutter.
