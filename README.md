@@ -1,4 +1,4 @@
-# CashFlowy 💸
+# CashFlowy 
 
 CashFlowy adalah aplikasi mobile pencatatan keuangan pribadi yang dirancang dengan antarmuka modern dan ringan, sangat cocok untuk mahasiswa atau anak muda yang ingin melacak arus kas harian mereka. Aplikasi ini berjalan 100% secara offline, mengimplementasikan konsep Asynchronous Programming, dan memanfaatkan dua teknik penyimpanan data lokal (Data Persistence).
 
@@ -6,7 +6,7 @@ Proyek ini dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata ku
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 - 📊 **Dashboard Ringkasan:** Menampilkan total saldo, pemasukan, dan pengeluaran bulan ini secara real-time.
 - 📝 **Pencatatan Transaksi:** Catat arus kas masuk dan keluar dengan mudah beserta kategori dan catatan tambahan.
@@ -16,7 +16,7 @@ Proyek ini dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata ku
 
 ---
 
-## 🛠️ Teknologi & Package yang Digunakan
+## Teknologi & Package yang Digunakan
 
 Aplikasi ini dibangun menggunakan Flutter dan bahasa pemrograman Dart.
 
@@ -30,7 +30,7 @@ Berikut adalah package pendukung yang digunakan:
 
 ---
 
-## 🚀 Langkah-langkah Menjalankan Aplikasi
+## Langkah-langkah Menjalankan Aplikasi
 
 Pastikan Anda sudah menginstal Flutter SDK di perangkat atau komputer Anda.
 
@@ -68,7 +68,7 @@ flutter run
 
 ---
 
-## 👨‍💻 Pengembang
+## **Pengembang**
 
 Dikembangkan oleh:
 
